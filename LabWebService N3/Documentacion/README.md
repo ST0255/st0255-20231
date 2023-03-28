@@ -98,7 +98,7 @@ ubuntu@dirIP $ node -v
 A continuación, procedar a clonar el repositorio que contiene el código fuente de la aplicación web en la máquina vm-WebServer que creo en la sección 3.1 de este documento. Para esto aplique el comando:
 
 ```git
-git clone https://github.com/ST0255/st0255-20222.git
+git clone https://github.com/ST0255/st0255-20231.git
 ```
 o 
 
